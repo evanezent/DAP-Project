@@ -4,3 +4,5 @@ Bahasa = Pascal
 Tema = Mesin Tiket Bioskop
 Jurusan = S1 Teknik Informatika
 Universitas Telkom
+
+# PRATAMA YOGA SANTOSA
